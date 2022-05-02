@@ -1,8 +1,6 @@
 # All-One-In Support:
 # Domination
 * Champion list:Sylas, Leesin, Aphelios, Velkoz, Viego, Jinx, Fiora, Xerath, Yasuo, Katarina, Blitzcrank, Zoe, Samira, Yi, Brand, Irelia, Vayne, Kaisa, Gangplank, Sion, Akali, Ezreal, Pyke, Kayle, Viktor, Lucian, Anivia, Jayce, Gwen, Riven, VelKoz
-# EzAio
-* Champion list: Ashe.Draven.Ezreal.Jhin.Jinx.Kalista.Kaisa.KatarinaLucian.Tristana.Twitch.Vayne
 # OktwAio
 * Champion list: Ashe, Caitlyn, Corki, Ezreal, Graves, Jinx, Kalista, Lucian, Sivir, Vayne, Viego, Xerath
 # Polak-i
